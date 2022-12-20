@@ -1,0 +1,9 @@
+{
+  "sitecore": {
+    "instancePath": "C:\\inetpub\\wwwroot\\xp10sc.dev.local",
+    "apiKey": "{9BFA902A-2E1F-402E-BE36-A1BE97F2A68D}",
+    "deploySecret": "6f1v7spotxb2grc0mvfgeas7cfy82yyiezxnc6xkml8",
+    "deployUrl": "https://dev-cd.altudo.net/sitecore/api/jss/import",
+    "layoutServiceHost": "https://dev-cd.altudo.net"
+  }
+}
